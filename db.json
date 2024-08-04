@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "d4ce",
+      "name": "Latoya Blanda"
+    },
+    {
+      "id": "7088",
+      "name": "Edgar Rice"
+    },
+    {
+      "id": "b944",
+      "name": "Jake Davis"
+    },
+    {
+      "id": "bed1",
+      "name": "Mark Schamberger"
+    }
+  ],
+  "albums": [
+    {
+      "id": "d533",
+      "userId": "7088",
+      "title": "Intelligent Metal Tuna"
+    },
+    {
+      "id": "48a2",
+      "userId": "7088",
+      "title": "Elegant Rubber Shirt"
+    },
+    {
+      "id": "f20a",
+      "userId": "d4ce",
+      "title": "Tasty Rubber Car"
+    },
+    {
+      "id": "7f12",
+      "userId": "b944",
+      "title": "Handmade Bronze Cheese"
+    },
+    {
+      "id": "1920",
+      "userId": "b944",
+      "title": "Luxurious Bronze Car"
+    }
+  ],
+  "photos": [
+    {
+      "id": "9e9d",
+      "albumId": "f20a",
+      "url": "https://loremflickr.com/150/150/abstract?lock=15539"
+    }
+  ]
+}
